@@ -8,8 +8,8 @@ abstract class AppTheme {
       primaryColor: AppColors.primaryColor,
       textTheme: const TextTheme(
         headline1: TextStyle(
-          fontSize: 22,
-          fontWeight: FontWeight.w800,
+          fontSize: 15,
+          fontWeight: FontWeight.w400,
           color: Colors.black,
         ),
       ),
@@ -23,9 +23,9 @@ abstract class AppTheme {
       primaryColor: AppColors.primaryColor,
       textTheme: const TextTheme(
         headline1: TextStyle(
-          fontSize: 20,
-          fontWeight: FontWeight.w700,
-          color: Colors.white,
+          fontSize: 14,
+          fontWeight: FontWeight.w400,
+          color: Colors.black,
         ),
       ),
     );
